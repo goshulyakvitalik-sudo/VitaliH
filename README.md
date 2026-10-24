@@ -40,13 +40,3 @@ Follow these steps to run the game locally on your machine:
     # or
     yarn start
 
-✨ Features
-- Responsive Design: Optimized for various screen resolutions and mobile devices.
-
-- Game Controls: Support for standard keyboard arrow keys as well as mobile touch/swipe gestures.
-
-- Score System: Tracks current score and persists the best score using LocalStorage.
-
-- Game Over & Win Conditions: Automatically detects when the 2048 tile is achieved or when no legal moves remain.
-
-- Restart Functionality: Allows resetting the board and starting a fresh game at any time.
