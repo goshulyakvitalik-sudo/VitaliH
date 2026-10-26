@@ -5,7 +5,7 @@ A modern, responsive implementation of the classic 2048 puzzle game built with c
 ## 🚀 Live Demo
 
 Play the game online: [Live Demo](https://goshulyakvitalik-sudo.github.io/VitaliH/)
-h
+
 ## 🛠 Technologies Used
 
 - **Core**: HTML5, CSS3, Modern JavaScript (ES6+)
@@ -39,4 +39,5 @@ Follow these steps to run the game locally on your machine:
     npm start
     # or
     yarn start
-
+  ```markdown
+  Play the game online: [Live Demo](https://goshulyakvitalik-sudo.github.io/VitaliH/)
